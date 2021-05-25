@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Harry Potter Series
+* Dan Brown books
+  * The DaVinci code
+  * Angels and Demons
